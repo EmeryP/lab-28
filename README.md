@@ -1,42 +1,26 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
-=================================================
 
-## Project Name
+## Props and State Practice
 
-### Author: Student/Group Name
+### Links to Sandboxes
+* [Props Practice Part 1 Sandbox](https://codesandbox.io/s/olzy674nwz)
+* [Props Practice Part 2 Sandbox](https://codesandbox.io/s/541rv8zn2p)
+* [Internal State Practice Part 1 Sandbox](https://codesandbox.io/s/00k120x38l)
+* [Internal State Practice Part 2 Sandbox](https://codesandbox.io/s/1v3ow0q53j)
+* [External State Practice Part 1 Sandbox](https://codesandbox.io/s/kk67r896o7)
 
-### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
-
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
 
 #### UML
-Link to an image of the UML for your application and response to events
+Props-practice-challenge-1
+![props-practice-challenge-1](/assets/props-practice-challenge-01-uml.png)
+
+Props-practice-challenge-2
+![props-practice-challenge-2](assets/props-practice-challenge-02-uml.jpg)
+
+Internal-state-practice-challenge-1
+![Internal-state-practice-challenge-1](assets/internal-state-practice-challenge-01-uml.png)
+
+Internal-state-practice-challenge-2
+![Internal-state-practice-challenge-2](assets/internal-state-practice-challenge-02-uml.jpg)
+
+<!-- External-state-practice-challenge-1
+![External-state-practice-challenge-1](assets/internal-state-practice-challenge-02-uml.jpg) -->

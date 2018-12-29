@@ -1,6 +1,6 @@
 
 ## Props and State Practice
-React props and state practice
+React props and state practice. View the links below to see the different Code Sandboxes.
 
 ### Links
 * [Props Practice Part 1 Code Sandbox](https://codesandbox.io/s/olzy674nwz)
